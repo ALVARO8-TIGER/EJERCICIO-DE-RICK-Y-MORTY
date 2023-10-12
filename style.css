@@ -1,0 +1,25 @@
+@import url(https://db.onlinewebfonts.com/c/e695a2b548e145591a266fc50eb492e0?family=Regular);
+
+body{
+    background-color: #605461;
+    text-align: center;
+    margin: 0;
+}
+
+
+h1{
+    margin: 0;
+    color: white;
+
+}
+.articulo{
+    color: white;
+    width: 45vh;
+    display: inline-block;
+    padding: 1vh;
+    background-color: #003775;
+    margin: 1vh;
+    font-family: "Regular";
+    border-radius: 10px;
+    text-align: center;
+}
